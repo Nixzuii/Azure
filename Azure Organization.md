@@ -17,6 +17,6 @@ Azure has exactly these five layers:
     <td>What it really is</td>
   </th>
   <tr>
-    <td></td>
+    <td>Company Registry</td>
   </tr>
 </table>
