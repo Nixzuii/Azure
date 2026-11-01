@@ -43,8 +43,10 @@ Azure has exactly these five layers:
   </tr>
 </table>
 
+The whole picture
+
 ```bash
-Tenant (Acme Corp: who are the people?)
+Tenant (Arasaka Corp: who are the people?)
  └── Management Group (Engineering Dept)
       └── Subscription (the credit card)
            └── Resource Group (the "Website Project" folder)
