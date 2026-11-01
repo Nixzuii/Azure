@@ -21,4 +21,14 @@ Azure has exactly these five layers:
     <td>Tenant (Microsoft Entra ID)</td>
     <td>The list of users and their logins. This is your “organization”.</td>
   </tr>
+  <tr>
+    <td>Department</td>
+    <td>Management Groups</td>
+    <td>Optional folders that group subscriptions so you can apply rules to many at once</td>
+  </tr>
+  <tr>
+    <td>Credit cards</td>
+    <td>Subscriptions</td>
+    <td>The billing container. Everything you create is charged to one.</td>
+  </tr>
 </table>
