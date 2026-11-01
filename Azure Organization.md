@@ -18,5 +18,7 @@ Azure has exactly these five layers:
   </tr>
   <tr>
     <td>Company Registry</td>
+    <td>Tenant (Microsoft Entra ID)</td>
+    <td>The list of users and their logins. This is your “organization”.</td>
   </tr>
 </table>
