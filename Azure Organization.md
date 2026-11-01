@@ -42,3 +42,11 @@ Azure has exactly these five layers:
     <td>A virtual machine, a database, a storage account, a website</td>
   </tr>
 </table>
+
+```bash
+Tenant (Acme Corp: who are the people?)
+ └── Management Group (Engineering Dept)
+      └── Subscription (the credit card)
+           └── Resource Group (the "Website Project" folder)
+                └── Resources (VM, database, storage...)
+```
