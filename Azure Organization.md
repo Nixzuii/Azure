@@ -7,3 +7,16 @@ Azure organization is the whole structure that holds a company’s stuff in Azur
 - Credit cards so someone pays for what gets used.
 - Project folders to keep related things together.
 - The actual stuff: computers, databases, websites.
+
+Azure has exactly these five layers:
+
+<table>
+  <th>
+    <td>My company</td>
+    <td>Azure Name</td>
+    <td>What it really is</td>
+  </th>
+  <tr>
+    <td></td>
+  </tr>
+</table>
