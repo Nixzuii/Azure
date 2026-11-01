@@ -52,3 +52,8 @@ Tenant (Arasaka Corp: who are the people?)
            └── Resource Group (the "Website Project" folder)
                 └── Resources (VM, database, storage...)
 ```
+
+Each layer sits inside the one above it.
+
+**The most important idea**
+Rules flow downward. If you say “Panam can only read things” at the Subscription level, she can only read everything inside it: every resource group and every resource. That’s why the layers exist. You set a rule once at the top instead of a thousand times at the bottom.
