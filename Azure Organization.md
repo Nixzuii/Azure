@@ -11,11 +11,11 @@ Azure organization is the whole structure that holds a company’s stuff in Azur
 Azure has exactly these five layers:
 
 <table>
-  <th>
-    <td>My company</td>
-    <td>Azure Name</td>
-    <td>What it really is</td>
-  </th>
+  <tr>
+    <th>My company</th>
+    <th>Azure Name</th>
+    <th>What it really is</th>
+  </tr>
   <tr>
     <td>Company Registry</td>
   </tr>
