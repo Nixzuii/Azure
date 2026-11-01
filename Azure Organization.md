@@ -31,4 +31,14 @@ Azure has exactly these five layers:
     <td>Subscriptions</td>
     <td>The billing container. Everything you create is charged to one.</td>
   </tr>
+  <tr>
+    <td>Project folders</td>
+    <td>Resource Groups</td>
+    <td>Folders that hold related things (for example, everything for one app)</td>
+  </tr>
+  <tr>
+    <td>The stuff</td>
+    <td>Resources</td>
+    <td>A virtual machine, a database, a storage account, a website</td>
+  </tr>
 </table>
