@@ -13,4 +13,7 @@ Region → Datacenter → Rack → Physical server → Your VM
 - **Region**: a city or area where Microsoft has datacenters, like Central India or South India. We choose this when we create the VM.
 - **Datacenter**: a huge, secure building full of servers, with its own power, cooling, and internet.
 - **Physical Server**: a powerful real machine. Software called a hypervisor splits it into many small virtual computers.
-- **Your VM**: one of those slices, completely separated from the other people’s VMs on the same machine.
+- **My VM**: one of those slices, completely separated from the other people’s VMs on the same machine.
+
+A good picture is an apartment building. The building is the physical server, and each apartment is a VM. Everyone shares the building but has their own locked apartment.
+
