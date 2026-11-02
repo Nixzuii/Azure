@@ -20,3 +20,5 @@ Think of Vnet as a set of nested boxes:
 ```bash
 Subscription → Resource Group → VNet (in one Region) → Subnets → your resources.
 ```
+
+Address space is the total range of private IP addresses your compound owns. Example: `10.0.0.0/16`. Think of it as the “land” you bought.
